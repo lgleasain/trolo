@@ -1,0 +1,10 @@
+ INFO ahn: Adhearsion v1.2.1 initialized!
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 start
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 client:9012 66.193.54.21<66.193.54.21> connect
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 client:9012 disconnect
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 client:15146 66.193.54.21<66.193.54.21> connect
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 client:15146 disconnect
+ INFO ahn: Shutting down gracefully at 2011-11-02 18:36:06 -0400.
+ INFO ahn: Shutting down with 0 active calls
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 stop
+ INFO events: Performing a graceful stop of events subsystem
