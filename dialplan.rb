@@ -3,5 +3,5 @@ adhearsion {
 }
 
 tropo_agi {
-  play 'tt-monkeys'
+  play 'trolo'
 }
